@@ -1,0 +1,24 @@
+php scrapping 
+
+Advance queue 
+proxy inferstructur
+
+guzzlehttp/guzzle
+
+spatie/crawler. -  grab links
+symfony dom-crawler and symfony css/selector
+
+js via puppeteer 
+
+Goutee is another tool you can use to 
+
+
+OTHER tools
+paquettg/php-html-parser
+netsearch/jsonmapper
+rican7/incomming 
+
+
+Python
+scrapy
+ToAPI
